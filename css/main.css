@@ -267,7 +267,7 @@ hr {
   cursor: pointer; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: inherit;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.1;
   color: #222; }
@@ -390,7 +390,7 @@ a.text-danger:hover, a.text-danger:focus {
   color: #fff; }
 
 .bg-primary {
-  background-color: #337ab7; }
+  background-color: #e0641a; }
 
 a.bg-primary:hover, a.bg-primary:focus {
   background-color: #1DDE79; }
@@ -3553,7 +3553,7 @@ textarea {
     text-align: left; } }
 
 .slider-one .slide-text span {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family:"Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-style: italic;
   margin-bottom: 14px;
@@ -3567,11 +3567,11 @@ textarea {
   margin-bottom: 22px; }
 
 .slider-one .slide-text h2 a {
-  color: #fff;
-  font-family: 'Modak', cursive; }
+  color:  #e0641a;
+  font-family: 'Lilita One', cursive }
 
 .slider-one .slide-text h2 a:hover {
-  color: #e0641a; }
+  color: #fff; }
 
 .slider-one .slide-text p {
   font-size: 15px;

@@ -115,7 +115,7 @@
         $("#fakeLoader").fakeLoader({
             timeToHide: 1500,
             zIndex: "20000",//Default zIndex
-            bgColor: "#04befc",
+            bgColor: "#e0641a",
             spinner: "spinner3"
         });
     }
